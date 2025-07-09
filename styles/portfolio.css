@@ -101,6 +101,20 @@ nav li a {
   font-size: 85px;
 }
 
+.banner-description {
+  margin-bottom: 35px;
+}
+
+.contact-btn {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 16px 35px;
+  background-color: transparent;
+  color: #FD6E0A;
+  border: 1px solid #FD6E0A;
+  margin-left: 30px;
+}
+
 .banner-profile-pic {
   width: 580px;
 }
