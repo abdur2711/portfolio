@@ -131,10 +131,16 @@ main section {
 }
 
 /* about styles */
-.about {
+.about-section {
   border-radius: 10px;
   padding: 130px 150px;
   text-align: center;
+}
+
+.about-container {
+  border: 1px solid black;
+  background-color: white;
+  padding: 10px;
 }
 
 .about-items {
